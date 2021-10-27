@@ -1,4 +1,4 @@
-#Install DOTA_devkit
+# Install DOTA_devkit
 
 ## 1.swing 
     sudo apt-get install swig
