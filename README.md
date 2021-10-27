@@ -1,9 +1,9 @@
-# Install DOTA_devkit
+## Install DOTA_devkit
 
-## 1.swing 
+### 1.swing 
     sudo apt-get install swig
 
-## 2.build_file
+### 2.build_file
 
     cd DOTA_devkit
     swig -c++ -python polyiou.i
